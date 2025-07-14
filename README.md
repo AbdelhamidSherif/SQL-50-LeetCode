@@ -3,8 +3,26 @@
 
 # 🧠 LeetCode SQL - Top 50 Problems
 
-Welcome to my personal collection of solutions for the **Top 50 SQL problems** on [LeetCode](https://leetcode.com/studyplan/top-sql-50/).  
-This repository is organized by SQL topics such as SELECT, JOINs, Aggregation, Subqueries, and more — each folder contains structured and readable solutions with clear problem titles.
+Welcome to my personal collection of solutions for the **Top 50 SQL problems** on [LeetCode](https://leetcode.com/studyplan/top-sql-50/). This repository is organized by SQL topics such as SELECT, JOINs, Aggregation, Subqueries, and more — each folder contains structured and readable solutions with clear problem titles.
+
+---
+
+## 📂 Folder Structure
+
+Each folder contains subfolders with:
+
+* ✅ **Problem number and title**
+* 📄 **README.md** containing the problem description and solution (in SQL)
+
+The problems are grouped into topic-based folders for easy navigation:
+
+* **Select**
+* **Basic Joins**
+* **Advanced Select and Joins**
+* **Basic Aggregate Functions**
+* **Sorting and Grouping**
+* **Advanced String Functions, Regex, Clause**
+* **Subqueries**
 
 ---
 
@@ -76,33 +94,58 @@ This repository is organized by SQL topics such as SELECT, JOINs, Aggregation, S
 
 ---
 
-## 🎯 Progress Summary
+## ✅ Progress Tracker
 
 | Topic                                    | Problems |
-|-----------------------------------------|----------|
+| ---------------------------------------- | -------- |
 | Select                                   | 5        |
 | Basic Joins                              | 9        |
+| Advanced Select and Joins                | 7        |
 | Basic Aggregate Functions                | 8        |
 | Sorting and Grouping                     | 7        |
-| Advanced Select and Joins                | 7        |
 | Advanced String Functions, Regex, Clause | 7        |
 | Subqueries                               | 7        |
 | **Total**                                | **50**   |
 
 ---
 
-## 🛠 SQL Dialect
+## 🚀 Technologies
 
-All queries use **SQL SERVER**, which is the default SQL engine used in LeetCode.
+* SQL (**SQL SERVER syntax**, compatible with LeetCode's online judge)
+* Organized in folders per topic and per problem
+* Clean, readable `.sql` queries inside each problem folder
 
 ---
 
-## 🙌 Contribution
+## 🧠 Why This Repo?
 
-This is a personal practice repository. You're welcome to fork it or use it for study, but contributions are currently closed.
+* Practice SQL for interviews and real-world analysis
+* Build intuition for SQL patterns and data operations
+* Categorize problems for targeted revision
+
+---
+
+## 📜 How to Use
+
+```bash
+git clone https://github.com/AbdelhamidSherif/SQL-50-LeetCode.git
+cd SQL-50-LeetCode
+```
+
+Then explore any folder/topic you're interested in. Each folder has:
+
+* Problem title in folder name
+* A `README.md` file with the solution
+
+---
+
+## 🤝 Contributions
+
+This is a personal learning project. Feel free to fork or use for your own study.
 
 ---
 
 ## 📌 Credits
 
-- Problem descriptions from: [LeetCode Database Problem Set](https://leetcode.com/problemset/database/)
+* Problems sourced from [LeetCode Database Problems](https://leetcode.com/studyplan/top-sql-50/)
+* Inspired by countless data interview challenges from real-world tech companies
