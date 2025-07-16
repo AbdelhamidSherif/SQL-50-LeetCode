@@ -30,9 +30,9 @@ The problems are grouped into topic-based folders for easy navigation:
 
 ### 📘 Select
 - [01- Recyclable and Low Fat Products](./Select/01-%20Recyclable%20and%20Low%20Fat%20Products/README.md)
-- [02- Find Customer Referee](./Select/02-Find%20Customer%20Referee/README.md)
-- [03- Big Countries](./Select/03%20-Big%20Countries/README.md)
-- [04- Article Views I](./Select/04-Article%20Views%20I/README.md)
+- [02- Find Customer Referee](./Select/02-%20Find%20Customer%20Referee/README.md)
+- [03- Big Countries](./Select/03-%20Big%20Countries/README.md)
+- [04- Article Views I](./Select/04-%20Article%20Views%20I/README.md)
 - [05- Invalid Tweets](./Select/05-%20Invalid%20Tweets/README.md)
 
 ### 🔁 Basic Joins
