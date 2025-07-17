@@ -38,7 +38,7 @@ The problems are grouped into topic-based folders for easy navigation:
 ### 🔁 Basic Joins
 - [01- Replace Employee ID With The Unique Identifier](./Basic%20Joins/01-%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/README.md)
 - [02- Product Sales Analysis I](./Basic%20Joins/02-%20Product%20Sales%20Analysis%20I/README.md)
-- [03- Customer Who Visited but Did Not Make Any](./Basic%20Joins/03-%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any/README.md)
+- [03- Customer Who Visited but Did Not Make Any Transactions](./Basic%20Joins/03-%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/README.md)
 - [04- Rising Temperature](./Basic%20Joins/04-%20Rising%20Temperature/README.md)
 - [05- Average Time of Process per Machine](./Basic%20Joins/05-%20Average%20Time%20of%20Process%20per%20Machine/README.md)
 - [06- Employee Bonus](./Basic%20Joins/06-%20Employee%20Bonus/README.md)
