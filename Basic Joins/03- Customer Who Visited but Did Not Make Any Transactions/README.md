@@ -64,4 +64,4 @@ GROUP BY customer_id
 ```
 ## 🔗 LeetCode Link
 
-[LeetCode - Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/submissions/1701115809/?envType=study-plan-v2&envId=top-sql-50)
+[LeetCode - Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50)
