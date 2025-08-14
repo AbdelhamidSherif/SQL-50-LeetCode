@@ -52,7 +52,7 @@ The problems are grouped into topic-based folders for easy navigation:
 - [03- Project Employees I](./Basic%20Aggregate%20Functions/03-%20Project%20Employees%20I/README.md)
 - [04- Percentage of Users Attended a Contest](./Basic%20Aggregate%20Functions/04-%20Percentage%20of%20Users%20Attended%20a%20Contest/README.md)
 - [05- Queries Quality and Percentage](./Basic%20Aggregate%20Functions/05-%20Queries%20Quality%20and%20Percentage/README.md)
-- [06- Monthly Transactions I](./Basic%20Aggregate%20Functions/06%20-Monthly%20Transactions%20I/README.md)
+- [06- Monthly Transactions I](./Basic%20Aggregate%20Functions/06-%20Monthly%20Transactions%20I/README.md)
 - [07- Immediate Food Delivery II](./Basic%20Aggregate%20Functions/07-%20Immediate%20Food%20Delivery%20II/README.md)
 - [08- Game Play Analysis IV](./Basic%20Aggregate%20Functions/08%20-Game%20Play%20Analysis%20IV/README.md)
 
