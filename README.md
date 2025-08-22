@@ -54,7 +54,7 @@ The problems are grouped into topic-based folders for easy navigation:
 - [05- Queries Quality and Percentage](./Basic%20Aggregate%20Functions/05-%20Queries%20Quality%20and%20Percentage/README.md)
 - [06- Monthly Transactions I](./Basic%20Aggregate%20Functions/06-%20Monthly%20Transactions%20I/README.md)
 - [07- Immediate Food Delivery II](./Basic%20Aggregate%20Functions/07-%20Immediate%20Food%20Delivery%20II/README.md)
-- [08- Game Play Analysis IV](./Basic%20Aggregate%20Functions/08%20-Game%20Play%20Analysis%20IV/README.md)
+- [08- Game Play Analysis IV](./Basic%20Aggregate%20Functions/08-%20Game%20Play%20Analysis%20IV/README.md)
 
 ### 🔄 Sorting and Grouping
 - [01- Number of Unique Subjects Taught by Each Teacher](./Sorting%20and%20Grouping/01-%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/README.md)
