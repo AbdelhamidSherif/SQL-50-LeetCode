@@ -60,7 +60,7 @@ The problems are grouped into topic-based folders for easy navigation:
 - [01- Number of Unique Subjects Taught by Each Teacher](./Sorting%20and%20Grouping/01-%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/README.md)
 - [02- User Activity for the Past 30 Days I](./Sorting%20and%20Grouping/02-%20User%20Activity%20for%20the%20Past%2030%20Days%20I/README.md)
 - [03- Product Sales Analysis III](./Sorting%20and%20Grouping/03-%20Product%20Sales%20Analysis%20III/README.md)
-- [04- Classes More Than 5 Students](./Sorting%20and%20Grouping/04-%20Classes%20More%20Than%205%20Students/README.md)
+- [04- Classes With at Least 5 Students](./Sorting%20and%20Grouping/04-%20Classes%20With%20at%20Least%205%20Students/README.md)
 - [05- Find Followers Count](./Sorting%20and%20Grouping/05-%20Find%20Followers%20Count/README.md)
 - [06- Biggest Single Number](./Sorting%20and%20Grouping/06-%20Biggest%20Single%20Number/README.md)
 - [07- Customers Who Bought All Products](./Sorting%20and%20Grouping/07-%20Customers%20Who%20Bought%20All%20Products/README.md)
